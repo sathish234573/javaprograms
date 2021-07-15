@@ -1,0 +1,231 @@
+sh Tirupathi Karpuri,9959380377
+Sw Mahendhar,9949925303
+Sw Naresh Nakka,9000500134
+Sw RamaKrishna,9490142134
+Sw Sinu Sriramula,9014130603
+Sw Venkatesh,8897970466
+
+Vn Chauhan,9985936176
+Vn Dhari,9550073961
+Vn Hari Sana,9177454563
+Vn Jagdhish,9052707789
+Vn LT Reddy,9966500012
+Vn Malla Reddy,9703799489
+Vn Morali,9703332670
+Vn Nagarjun VNDC,9700518954
+Vn Naresh Siddipate,9949495076
+Vn Pdivya,9701008905
+Vn Raj Kumar,9849210581
+Vn Ramana KNR,9959263132
+Vn Sampath,9985262800
+Vn Santhu,9395113389
+Vn Santhua,9246113389
+Vn Sridhar,9704391661
+
+
+L Geeta,9963399522
+L Ilesh,9848798103
+L Father of Karnaker,9849947017
+L Karnaker,9642199011
+L Kondal,9966032969
+L Madavi,9912454202
+L Nagesha,9291552455
+L Paandu,9848387251
+L Raghu,9885965966
+L Sharath,9703599766
+L Stephen MBA,9948907878
+L Suresh Anna,9704413144
+L vinil Anna,9703333930
+L Akash,9966654679
+
+
+C Aditya,9989488581
+C Ajay,9849560870
+C Akash,9966654679
+C Alfred,9949316266
+C Amit Gain,9885478057
+C Ankita,9985548160
+C Arati,9849250463
+C Balu,9985858346
+C Bavana,9676195391
+C Bhargavi,9985060788
+C Chaitanya Grandhi,9030135250
+C Chary Naresh Anna,9440873748
+C Depthi Balguri,9866651072
+C Dhilip Palkuri,9490751323
+C Divya GMB,9490389148
+C Durga,9849808785
+C Farook,9963883700
+C Gautam Sikit,9866613610
+C Keerthi Gudihal,9985520301
+C Gnaneshwar,9393123083
+C Gupta,9291549224
+C Jagan,9030085953
+C kaja,9030085953
+C Keerthi Vishwa,9989676657
+C Khaja,9966317323
+C shirisha Kaku,9985409482
+C Sowmya kandula,9848643526
+C Santosh Kunta,9985003529
+C khushboo,9989895330
+C Madhu,9866346084
+C Mahendra,9848948222
+C Malay HR,9949735550
+C Nyla,9704028975
+C pavani,9966104015
+C Peyali,9618032536
+C Phani GMB,9885283428
+C PrasadSriramoju,9848950108
+C Prasad Brother,9014382230
+c Praveen Kudidi,9000121255
+C Priya,9394194886
+C Radhika Ravvula,9866772434
+C Raj Dontha,9908215020
+C Raju warasiguda,9618781116
+C Rakesh Gowrisetti,9866190202
+C Ravi Juluri,9160006667
+C Sad Ansari,9985381938
+C Sanjiv Arati,9959961201
+C Shasikala Mantha,9666157579
+C Shilpa Rachuri,9963065386
+C shushma Kakdai,9966916222
+C Soundarya Pujala,9912753340
+C somesh G, 9849262123
+C SrideviMudupu,9848307633
+C SrinuBommu,9701792659
+C SrinuRudra,9908346948
+C Subhashini,9966044390
+C Surendra Anna,9848645309
+C Swetha Chinthaluri,9989488582
+C Tiru Dintakurthi,770873178
+C Venky Neelabatla,9966009817
+c Vijay Vadla,9989299587
+C vinay Anna,9866191729
+C Vyas Raj Moda,9866172592
+c wellpoint Friend,9985631190
+
+
+
+
+u Anita,9963306121
+u Apoorv,9885325394
+u Ashok,9908178158
+u Astha,9891072029
+u Bhasker,9032176215
+u Girish,9949747304
+u Girish1,9700018777
+u Goverdhan,9951929276
+u Hari MVK,9441544176
+u Hari MVK1,9700077791
+u Kalyan,9490935903
+u Keerthi G,8790553737
+u Madhuri,9703987823
+u Mahesh,8790859207
+u Naresh Swamy,9948891466
+U Naresh Father, 
+u Naresh Bank ,9676555295
+U Naresh Vulli,9985355784
+U Naveen CA,9963114311
+U Prasad,9885188133
+U Praveen UAT,9963588804
+U Praveen DVK,7799522277
+u priyan,8106810382
+u Rajat,9347333446
+U Rajiv Sriramoju,9642766677
+U Rajest UST,8142708883
+U Rakesh BPO,8978604092
+U Ranjit IDC,9966012363
+U Rao Garu,9701226377
+U RaviChandra,9985037397
+U Rinwaz,8801279834
+U Rohit,9014766107
+U Rohita,9652229798
+U SaiBoyapati,9966108709
+U Sathish Babu JS,9700133599
+U Sathish D,7702614545
+U Satish G,9948099865
+U Sathish NS,9550205550
+U Satya,9959666876
+U Silpa,9701894895
+U Shirisha,9849094858
+U Somesh,9849262123
+U Sudharshan Unlce,9849715496
+U Suman,9949855775
+U Sunil,9966621132
+U Swathi Allu,9959994401
+U Swathi Thorat,9642626001
+U Thiru,7702873178
+U Uma Mannav,9052043676
+U Venu Anna,9703833143
+U viswanath, 
+U Vijay Naykodi,9949762228
+U Vinay Ecap,9885336655
+U Viney Mital,9966811180
+U VRaghav Reddy,9885804804
+U Yeswanth,9640920267
+
+
+
+General Group:
+
+Ss Mahesh Friend of Akash,9395153543
+Ss Mahesh Land Line,04023026184
+Ss Ali,9490654288
+ss Mahesh New,9618056535
+ss Chary Sir,9704221114
+Ss Chary Sir brother,9849541003
+Ss Chitti Sister,9989351172
+Ss Naveen,9866352356
+Ss Sunil Brother,7306464745
+Ss Ramesh friend of Bava,9010241600
+Ss Sridher friend of Bava,9032447106
+Ss Sinu friend of Prasad UHG,9885856016
+Ss Babu from Oxford School,9951383898
+Ss Shilpi Photo Studio,9866435799
+Ss Jyothi Sister,9493473121
+Ss Babai,9849949639
+
+RamaKrishna Matt:
+Rk MSC Maths Friend,9247436330
+RK Praveen English Teacher,9247780812
+Rk Rajendher alias Anil,9848622354
+
+
+Doctor Group:
+Dr Salman Raj,9849212263
+Dr Salman Land,8736253655
+Dr Ravindher,9849872034
+Dr Ramesh Babu Dentist,9440136205
+Dr Ramesh Babu Dentist Land,8736254643
+Dr Dentist Longer House,9290453155
+
+
+Nagarjuna colony:
+
+Ng Kranthi,9963104347
+Ng Laxman Akshara Fashions,9866303196
+Ng Sanjeev Uncle,9866948021
+
+
+Ayyappa Group:
+
+Ay Krishna Anna,9848261263
+Ay Harish Guru Swamy,9849935422
+Ay Harish Guru Swamy Old,9949658859
+Ay Raju Swamy,9000688246
+Ay Rakesh Thammudu,9700706909
+Ay RamChary Uncle,9849705774
+Ay Ravindhar Teacher MNCL,9849532628
+Ay VireshLingam Guru Swamy,9908709165
+Ay Yadav Guru Swamy,9440743177
+
+
+
+
+
+
+
+
+
+
+
